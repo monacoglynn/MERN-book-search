@@ -1,2 +1,2 @@
-# MERN-book-search
+MERN-book-search
 A MERN stack book search engine
